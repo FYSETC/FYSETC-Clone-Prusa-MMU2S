@@ -1,2 +1,13 @@
 # Original-Prusa-MMU2S-clone
 Original Prusa MMU2S clone database
+
+![image-original prusa mmu2s](/original prusa mmu2s.jpg)
+1.MMU2S STL file update 2020.7.17
+These print files are suitable for FYSETC prusa MMU2S 3D printer.
+
+2.Prusa MMU2S assembly tutorial  
+<https://help.prusa3d.com/en/guide/1-introduction_36832>
+
+
+3.Prusa MMU2S knowledge base
+<https://help.prusa3d.com/en/search/?s=MMU2S>
