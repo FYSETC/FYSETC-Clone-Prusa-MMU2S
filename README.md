@@ -1,7 +1,7 @@
 # Original-Prusa-MMU2S-clone
 Original Prusa MMU2S clone database
 
-![](original prusa mmu2s.jpg)
+![](./original prusa mmu2s.jpg)
 
 
 
