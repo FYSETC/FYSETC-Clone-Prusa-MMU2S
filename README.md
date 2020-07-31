@@ -1,7 +1,7 @@
 # Original-Prusa-MMU2S-clone
 Original Prusa MMU2S clone database
 
-![](./original prusa mmu2s.jpg)
+![](./original_prusa_mmu2s.jpg)
 
 
 
@@ -12,5 +12,5 @@ These print files are suitable for FYSETC prusa MMU2S 3D printer.
 <https://help.prusa3d.com/en/guide/1-introduction_36832>
 
 
-3.Prusa MMU2S knowledge base
+3.Prusa MMU2S knowledge base  
 <https://help.prusa3d.com/en/search/?s=MMU2S>
