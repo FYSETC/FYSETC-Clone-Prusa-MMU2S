@@ -1,5 +1,5 @@
-# Original-Prusa-MMU2S-clone
-Original Prusa MMU2S clone database
+# FYSETC clone Prusa MMU2S database
+FYSETC clone Prusa MMU2S database
 
 ![](./original_prusa_mmu2s.jpg)
 
